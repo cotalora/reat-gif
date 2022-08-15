@@ -1,0 +1,33 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Pruebas para componente GiftItem Debería  1`] = `
+<div>
+  <div
+    class="card"
+  >
+    <img
+      alt="Saitama"
+      src="https://www.google.com/saitama.jpg"
+    />
+    <p>
+      Saitama
+    </p>
+  </div>
+</div>
+`;
+
+exports[`Pruebas para componente GiftItem Debería mostrar el compontente igual al match 1`] = `
+<div>
+  <div
+    class="card"
+  >
+    <img
+      alt="Saitama"
+      src="https://www.google.com/saitama.jpg"
+    />
+    <p>
+      Saitama
+    </p>
+  </div>
+</div>
+`;
